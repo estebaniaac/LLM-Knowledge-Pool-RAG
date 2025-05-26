@@ -4,7 +4,7 @@ import numpy as np
 import json
 from config import *
 
-embeddings_json= "knowledge_pool/brutalism_wikipedia.json"
+embeddings_json= "knowledge_pool/MasterThesisSummary_Stella_Gonzlez_ColivingExperiences.json"
 
 # Choose between "local" or "openai" mode
 mode = "local" # or "local"
@@ -13,7 +13,7 @@ client, completion_model = api_mode(mode)
 # question = "What is the program for the building?"
 # question = "What is the place like?"
 # question = "Is there any mention of the construction materials that should be used?"
-question = "What are the names of the most famous brutalist buildings?"
+question = "What can I ask you about Co-living?"
 
 num_results = 1 #how many vectors to retrieve
 

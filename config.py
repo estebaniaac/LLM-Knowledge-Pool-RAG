@@ -5,14 +5,14 @@ from keys import *
 
 # API
 local_client = OpenAI(base_url="http://localhost:1234/v1", api_key="lm-studio")
-openai_client = OpenAI(api_key=OPENAI_API_KEY)
+openai_client = OpenAI(api_key="OPENAI_API_KEY")
 
 # Models
 embedding_model = "nomic-ai/nomic-embed-text-v1.5-GGUF"
 
 mistral_8x7b = [
         {
-            "model": "cjpais/llava-1.6-mistral-7b-gguf/llava-1.6-mistral-7b.Q6_K.gguf",
+            "model": "lmstudio-community/Llama-3.1-Tulu-3-8B-GGUF",
             'api_key': 'any string here is fine',
             'api_type': 'openai',
             'base_url': "http://localhost:1234/v1",

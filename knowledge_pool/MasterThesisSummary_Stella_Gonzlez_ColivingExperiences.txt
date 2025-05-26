@@ -1,0 +1,192 @@
+# Co-living Experiences from Digital Nomads and Remote Workers leading to Rural Development: The case of Spain
+
+Conference Paper · July 2021
+
+| CITATIONS | READS |
+| --------- | ----- |
+| 2         | 176   |
+
+2 authors, including:
+
+- Stella González
+- European Master in Tourism Management (EMTM)
+
+3 PUBLICATIONS 2 CITATIONS
+
+All content following this page was uploaded by Stella González on 28 May 2023.
+
+The user has requested enhancement of the downloaded file.
+
+# Co-living experiences from digital nomads and remote workers leading to rural development: The case of Spain
+
+Stella González
+
+9 July 2021
+
+This study considers three emergent trends in the tourism industry: digital nomadism, co‑living, and rural development. These trends are explained in the literature review as they make part of the research questions and objectives. The literature review also establishes the difference between digital nomads and remote workers as both are users of co‑living locations. The methodology, results, discussion, conclusions, and recommendations sections relate to the three trends. Altogether, the study aims to understand the relationship between co‑living users and rural development in Spain by answering the question: How can digital nomads and remote workers’ co‑living experiences contribute to rural development?
+
+It is vital to compare remote workers and digital nomads to understand the study’s sample and its significance on the digital nomadism trend. While remote workers work from home and communicate through technologies (Golden & Gajendran 2019), digital nomads are known for roaming freely and traveling slowly between destinations while working remotely (Reichenberger, 2017; Andriotis, 2018; Beamount, 2019). According to O' Brien (2011), digital nomads prefer independence over a regular income and freedom over security with their jobs, so when traveling their minimum stay in one destination is one month. This trend is under observation because remote working is taking force worldwide with the pandemic (Kniffin et al., 2020) as an option to promote health and job performance (Tronco Hernandez, 2020). The implication of this trend and the possibility of remote workers becoming digital nomads can be many because it can transform destinations that want to attract both markets, such as some countries that are already launching one‑year digital nomad visas.
+
+Co˗living is the second trend of this study, which represents locations adapting to digital nomads and remote workers. Co˗living is a concept that is booming around Spain and Europe (Zumbusch & Lalicic, 2020; CoFounder, 2020), which combines short‑term accommodations, work routines, and social areas for its users (Lee et.al, 2019; Thompson 2018). In particular, the co˗living concept differentiates from other accommodations and coworking areas because it offers the guidance of co˗living hosts or managers. This characteristic helps digital nomads alleviate their isolation feeling (Orel, 2019; Thompson 2018) as co˗living hosts promote social interactions, community events, and networking opportunities (Zumbusch & Lalicic, 2020). Several authors confirm that the search for a sense of community and like‑minded people is what digital nomads primarily search for when moving to a new place (Wang et al., 2019; Fix & Lesniak, 2017; Ciolf & Lockley 2018; Thompson 2018).
+
+Rural development is the third trend of this study because it is one research’s objective is to explore the impact of rural co-living in these environments. Like other European rural areas, Spain has also passed through a process where the agrarian economy was substituted by the urban economy (Li et al., 2019). Factors that influence the rural areas’ degrowth include lack of services and infrastructure and low demand for agricultural jobs (Collantes, Pinilla, Sáez, & Silvestre, 2013). Consequently, this study explores if rural co-living can be an alternative to reactivate rural economies and incentivize rural destination attractiveness. The study also establishes the idea that rural tourism can be an alternative as tourists are searching to free themselves from strict city regulations (Polukhina, et.al, 2021) and enjoy destinations with fewer low-risk and social distancing measures (Seraphin & Dosquet, 2020; Vaishar & Šťastná, 2020).
+
+Therefore, an interpretive paradigm approach is adopted to understand the phenomenon under study (Neuman, 2014; Grenier & Merriam, 2019), in this case, the co-living experiences from digital nomads and remote workers and their relationship with rural development. Eighteen participants were recruited through purposive sampling via Facebook and Instagram accounts from co-living locations in Spain and were interviewed online with semi-structured interviews. Purposive sampling allows researchers to accept participants under established criteria (Corbin & Strauss, 1990), consisting of users with co-living experiences in Spain and preferably rural co-living and who work remotely. The grounded theory allows the researcher to create categories (Bryant & Charmaz, 2007), new theories (Strauss, 1987), and provide new insights into a phenomenon (Denzin, 2007). The NVivo platform and a mind map facilitated the content analysis and creation of four broad categories.
+
+The concept of sense of place consists of the relationship between humans and place (Stedman, 2003; Farnum et al., 2005). Sense of place has many implications, as a strong sense of place can motivate to protect local environments (Adger et al., 2013; Chapin and Knapp, 2015; Masterson et al., 2017) and promote sustainable efforts (Brown 2015; Jones et al. 2016). In this study, the sense of place is analyzed through its sub-categories; place attachment, place identity, and place belonging (Beaumont, 2019). In contrast, placemaking is about creating common collaborative areas for communities to foster their socio-economic development, sustainability, political decision, and community engagement (Silberberg, Lorah, Disbrow, & Muessig, 2013). The same authors suggest placemaking is crucial for fostering the connection between people who live in the same place and feel identified with common goals. Both concepts are related in this study as co-living locations can represent a place for collaboration and a sense of community between co-living users and the local communities.
+
+The first category discusses place attachment sub-questions, particularly co-living selection factors and determining factors to extend a co-living experience. Place attachment refers to the connection to a place (Smaldone et al., 2008), which depends on a person’s life stage (Elder et al., 1996) and length of residence in a place (Hammitt et al., 2004; Brown and Raymond, 2007). While most co-
+
+Living users stay for one month in a co-living location, those who stayed shorter or longer also prioritize the work environment, community, and destination attributes as indicated by several authors (Nash et al., 2018; Lee et al., 2019; Zumbusch & Lalicic, 2020). The work environment’s priority confirms their need for high-speed internet, comfortable work areas, and social areas (Zumbusch & Lalicic, 2020). Additionally, the satisfaction with the like-minded community is explained further in the sense of identity category as it is the main factor for extending and even repeating a co-living experience. Lastly, the connection with nature had an even more significant impact on co-living users, who had the experience during the pandemic as they were alleviated from crowded cities and worked in a relaxed environment.
+
+# 2. Place Identity
+
+The second category explains place identity sub-questions, as the study explores the relationship between co-living users. Digital nomads search for their own tribes, so they pass through a process of “elective belonging” (Savage et al. 2005), where they search for people with similar values, goals, and preferences that fit their identity (Proshanksy et al., 1978; Tomaney, 2014). Consequently, the described relationships among co-living users affirm Wenger-Trayner’s concept of communities of practice. This concept states that people search for similar communities to learn, collaborate, and co-create experiences together (Wenger-Trayner, 2015). For this reason, co-living users share similar experiences related to knowledge sharing, collaborative projects, and networking opportunities. In other words, a collective sense of identity (BenMoussa, 2003; Cappelli & Keller, 2013; Humphry, 2014; Sutherland & Jarrahi, 2017). Additionally, many co-living users could feel self-identified by practicing their hobbies, connecting with nature, and learning from the local culture.
+
+# 3. Place Belonging
+
+The third category explores place belonging sub-questions and analyzes the satisfaction of co-living users for contributing to the local communities. Ciolf and Lockley (2018) and Thompson (2018) indicate that the co-living host results in high importance and co-living users confirm this by explaining how the host promotes the local producers, makes local experiences possible, and strengthens the sense of community. While there is a language barrier with digital nomads not learning their hosts’ languages (Hermann & Paris, 2020), it was not a limitation in the studied experiences. The co-living host facilitates social interaction with the local community through events, local economy, and sharing food. Therefore, the sense of belonging of co-living users primarily consists of co-creating daily experiences with other co-living users and the same local community (Campelo, Aitken, Thyne & Gnoth, 2014), which makes them feel at home.
+
+# 4. Placemaking
+
+The fourth category is about the placemaking of co-living users and their interest in contributing to rural development in Spain. Co-living users collaborate with barriers and opportunities of rural co-living that corroborate the literature review of rural development. For instance, the isolation of rural areas in Spain is driven by the lack of facilities and transportation (De la Cruz Mera and Madurga, 2019; Gonzalez-Leonardo et al., 2019). Specific workspace needs can influence decisions towards certain co-living locations as some co-living users need quiet and private areas.
+
+for their job tasks, such as teaching online with reliable internet. Ultimately, the price comparison between Europe and Asia can be a barrier as established by Reichenberger (2018), which can deter people who cannot travel while working or who do not have a high economic status.
+
+Furthermore, co‑living users’ recommendations provide insights into how to continue boosting the co‑living and rural development relationship. Co‑living users agree with Hankinson (2007), Gnoth (2007), and Silberberg et al. (2013), who acknowledges that community agreements and the participation of local communities can result in the sustainability of a region, active decision making, consequently, in placemaking processes. While not all co‑living users have rural tourism experiences due to lack of services or the pandemic regulations, some of them highlight the destination attributes, nature connection opportunities, and the potential of rural tourism in contributing to socio‑economic development (Walmsley, 2003; UNWTO, 2020; Guzman‑Parra et al., 2015). Co‑living users also recommend keeping rural co‑living oriented towards open‑minded remote workers who love nature and are interested in sustainable rural development. This perspective prevents rural co‑living from becoming over‑commercialized by markets, affecting the work environment and local culture.
+
+The study itself presents a relevant discussion to derive more recommendations based on the contributions of co‑living users. Five recommendations are developed to offer new insights to diverse stakeholders, including people interested in experiencing rural co‑living, emergent co‑living industry, local communities, and governments with potential opportunities. The five recommendations include reducing barriers and expectations, increasing interactions between co‑living users and local communities, identifying key stakeholders for rural tourism, working on the potential markets, and using digital marketing tools to promote co‑living experiences. These recommendations also combine the researcher’s experience in presenting the study in different international conferences, where many questions showcased the audience’s interest in the local community integration in co‑living projects.
+
+Regarding the isolation, workspace needs, and price barriers, co‑living hosts must specify through their selection process all the barriers so co‑living users reduce their expectations. The lack of infrastructures can be a barrier for people with specific needs; therefore, co‑living hosts should satisfy their users with the required technological and physical infrastructure. There should always be a place to improve the livelihoods of rural people and prevent gentrification by offering services that make the community more resilient, such as hospitals, schools, transportation, and related services. Since co‑living attracts human capital with diverse knowledge, these skills should be promoted and exchanged through volunteering opportunities with the local community. Consequently, co‑living locations can serve as laboratories to increase the interactions between co‑living users and the local communities, fostering a sense of community and collaboration in sustainable rural projects. Some ideas include increasing the local events, offering common areas.
+
+and coworking spaces for both groups, and inspiring locals to offer services and products particular to rural areas, such as winemaking tours, wellness‑related services, and ecological tours. The interested communities should estimate their destination attributes and promote them with services and products that distinguish for the connection with nature and the local culture. In the same line, local governments can evaluate the young exodus by offering young people opportunities to learn English and become ambassadors of rural areas. In this way, rural tourism is the alternative that can link all these stakeholders and should complement the co‑living experience rather than substitute it, so it demonstrates a placemaking process. Moreover, the actual co‑living market can be extended by integrating specialized experiences designed for families, co‑living interested investors, companies, and individual remote workers, who need a break from urban cities and their everyday work environment. Lastly, co‑living hosts should consider communicating more the profile and background of co‑living users in their Facebook and Instagram accounts to attract like‑minded people interested in collaborating with the sustainable development of rural areas.
+
+However, this study does not represent the reality of rural host communities as the researcher could not have the co‑living experience due to the ongoing pandemic, lack of funding, time constraints, and chosen methodology of online interviews. It is suggested to study their perspective to see if co‑living can enhance their quality of life. On the one hand, the community’s perspective can bring new insights whether the community wants to receive foreigners and offer them local services because it all depends on the community’s history with rural projects (Burton et al., 2004; Goodlad, Burton, & Croft, 2005; Volgger and Pechlaner, 2014). On the other hand, comparative case studies of co‑living’s management in Spain can offer better information to develop sustainable models of co‑living rather than its greenwashing. Also, the actual co‑living model can be explored further by studying non‑existent routes of rural co‑living in Spain by combining national tourism with local services and local experiences targeted for slow remote travelers.
+
+Overall, digital nomads and remote workers’ co‑living experiences demonstrate an interest in co‑creating experiences, sharing knowledge, and contributing to rural Spain. The study also exposes the importance of studying a market’s sense of place to facilitate placemaking processes with local communities. However, stakeholder collaboration is primordial to continue increasing their contribution with more specific plans for integrated rural development. Therefore, alternatives like rural tourism should be analyzed to complement the co‑living boom. The goal is to empower rural development in Spain with a positive engagement between the tourism industry, local communities, co‑living investors, governments, and relevant stakeholders.
+
+# Reference list
+
+Adger WN, Barnett, J., Brown, K., Marshall, N. & O’Brien, K. (2013) Cultural dimensions of climate change impacts and adaptation. Nature Climate Change, 3:112–117.
+
+Andriotis, K. (2018). Alternative travel lifestyles, degrowth and freedom‑seeking. Degrowth in Tourism: Conceptual, Theoretical and Philosophical Issues, 120‑146.
+
+Beaumont, J. (2019). Digital nomads and sense of place: A case study of Lisbon. Thesis Wageningen University. Retrieved 17 October 2020 from https://library.wur.nl/WebQuery/groenekennis/2285029
+
+BenMoussa, C. (2003). Workers on the move: New opportunities through mobile commerce. In Paper presented at the Stockholm mobility roundtable, Stockholm, Sweden, 22–23.
+
+Brown, K. (2015) Resilience, development and global change. Routledge, London.
+
+Brown, G., & Raymond, C. (2007). The relationship between place attachment and landscape values: toward mapping place attachment. Applications. Geography. 27, 89–111.
+
+Bryant, A., & Charmaz, K. (2007). Introduction: Grounded theory research: Methods and practices. In A. Bryant & K. Charmaz (Eds.), The Sage handbook of grounded theory (pp. 1–28). London: Sage.
+
+Brown, B., & O’Hara, K. (2003). Place as a Practical Concern of Mobile Workers. Environment and Planning, 35(9), 1565–1587.
+
+Burton, P., Croft, J., Hastings, A., Slater, T., Goodlad, R., Abbott, J., & Macdonald, G. (2004). What works in community involvement in area‑based initiatives? National Archives. Retrieved 2 April 2021 from https://webarchive.nationalarchives.gov.uk/20110218141428/http://rds.homeoffice.gov.uk/rds/pdfs04/rdsolr5304.pdf
+
+Campelo, A., Aitken, R., Thyne, M., & Gnoth, J. (2014). Sense of Place: The Importance for Destination Branding. Journal of Travel Research, 53(2), 154–166.
+
+Cappelli, P., & Keller, J. (2013). Classifying Work in the New Economy. Academy of Management Review, 38(4), 575‑596.
+
+Casey, E. (1996). How to Get from Space to Place in a Fairly Short Stretch of Time: Phenomenological Prolegomena. In Senses of Place, edited by S. Feld and K. Basso. Santa Fe: School of American Research Press, 13‑52.
+
+Chapin, FS., & Knapp, CN. (2015) Sense of place: a process for identifying and negotiating potentially contested visions of sustainability. Environmental Science and Policy, 53:1–9.
+
+Ciolf, L., & Lockley, E. (2018) From work to life and back again: examining the digitally mediated work/life practices of a group of knowledge workers. *Computer Support Coop Work (CSCW)*, 27(3–6):803–839.
+
+Ciolfi, L., Bartolucci, I., & Murphy, D. (2005). Meaningful interactions for meaningful places: investigating the relationships between nomadic work, tangible artefacts and the physical environment. In *Proceedings of the 2005 annual conference on European association of cognitive ergonomics* (115–121).
+
+CoFounder. (2020, September 25). Is Coliving the Next Big Hospitality Trend? Retrieved 21 October 2020 from https://www.cofmag.com/2020/09/is‑coliving‑the‑next‑big‑hospitality‑trend/
+
+Collantes, F., Pinilla, V., Sáez, L. A., & Silvestre, J. (2013). Reducing Depopulation in Rural Spain: The Impact of Immigration. *Population, Space and Place*, 20(7), 606–621.
+
+Corbin, J., & Strauss, A. (1990). Grounded theory research: Procedures, canons, and evaluative criteria. *Qualitative Sociology*, 13, 3‑21.
+
+De la Cruz, A., & Madura, M. (2019). Los Instrumentos de Ordenación del Territorio en España. Estudio comparado de la legislación y los instrumentos vigentes. *Ciudad y Territorio*, 199, 175–200.
+
+Denzin, N. K. (2007). Grounded theory and the politics of interpretation. In A. Bryant & K. Charmaz (Eds.), *The Sage handbook of grounded theory* (pp. 454–471). London: Sage.
+
+Elder, G. H., King, V., and Conger, R. D. (1996). Attachment to place and migration prospects: a developmental perspective. *Journal of Research on Adolescence*, 6, 397–425.
+
+Ellery, P. J., & Ellery, J. (2019). Strengthening Community Sense of Place through Placemaking. *Urban Planning*, 4(2), 237–248.
+
+González‑Leonardo, M., López Gay, A., & Recaño Valverde, J. (2019, July 29). Brain drain and the Second Wave of Depopulation. Dipòsit Digital de Documents de la UAB. https://ddd.uab.cat/record/211022.
+
+Goodlad, R., Burton, P., & Croft, J. (2005). Effectiveness at what? The processes and impact of community involvement in area‑based initiatives. *Environment and Planning C: Government and Policy*, 23(6), 923–938.
+
+Farnum, J., Hall, T., and Kruger, L. (2005). Sense of Place in Natural Resource Recreation and Tourism: An Evaluation and Assessment of Research Findings. Moscow, ID: University of Idaho.
+
+Fix, R. & Lesniak, M. (2017a) The present and future of co‑living typologies and business models. Retrieved 9 January 2021, from https://coliving.pressbooks.com/chapter/the‑present‑and‑future‑of‑co‑living‑typologies‑and‑business‑models/.
+
+Golden, TD., & Gajendran, RS. (2019) Unpacking the role of a telecommuter’s job in their performance: examining job complexity, problem solving, interdependence, and social
+
+support. Journal of Business Psychology, 34:55–69
+
+Gnoth, J. (2007). The Structure of Destination Brands: Leveraging Values. Tourism Analysis, 12 (5): 345‑58.
+
+Grenier, R. S., & Merriam, S. B. (2019). Qualitative research in practice: Examples for discussion and analysis (Second ed.). San Francisco, California: Jossey‑Bass.
+
+Guzman‑Parra, V. F., Quintana‑garcía, C., Benavides‑velasco, C. A., & Vila‑oblitas, J. R. (2015). Trends and seasonal variation of tourist demand in Spain: The role of rural tourism. TMP, 16, 123–128.
+
+Hammitt, W. E., Backlund, E. A., and Bixler, R. D. (2004). Experience use history, place bonding and resource substitution of trout anglers during recreation engagements. Journal of Leisure and Recreation. 36, 356–378
+
+Hankinson, G. (2007). The Management of Destination Brands: Five Guiding Principles Based on Recent Developments in Corporate Branding Theory. Journal of Brand Management, 14 (3): 240‑54.
+
+Hermann, I., & Paris, C. M. (2020). Digital Nomadism: the nexus of remote working and travel mobility. Information Technology and Tourism, 22(3), 329–334.
+
+Humphry, J. (2014). Officing: Mediating time and the professional self in the support of nomadic work. Computer Supported Cooperative Work: CSCW: An International Journal, 23(2), 185–204.
+
+Jones, N. A., Shaw, S., Ross, H., Witt, K., and Pinner, B. (2016). The study of human values in understanding and managing social‑ecological systems. Ecology and Society, 21(1):15
+
+Kniffin, K. M., Narayanan, J., Anseel, F., Antonakis, J., Ashford, S. P., Bakker, A. B., Bamberger, P., Bapuji, H., Bhave, D. P., Choi, V. K., Creary, S. J., Demerouti, E., Flynn, F. J., Gelfand, M. J., Greer, L. L., Johns, G., Kesebir, S., Klein, P. G., Lee, S. Y., … Vugt, M. van. (2021). COVID‑19 and the workplace: Implications, issues, and insights for future research and action. American Psychologist, 76(1), 63–77.
+
+Lee, A., Toombs, A. L., Erickson, I., Nemer, D., Ho, Y.‑shen, Jo, E., & Guo, Z. (2019). The Social Infrastructure of Co‑spaces: Home, Work, and Sociable Places for Digital Nomads. Proceedings of the ACM on Human-Computer Interaction, 3(CSCW), 1–23.
+
+Masterson, VA. (2016). Sense of place and culture in the landscape of home: understanding social‑ecological dynamics on the Wild Coast, South Africa. Stockholm Resilience Centre, Stockholm University, Stockholm
+
+Nash, C., Jarrahi, M. H., Sutherland, W., & Phillips, G. (2018). Digital nomads beyond the buzzword: Defining digital nomadic work and use of digital technologies. Transforming Digital Worlds, 10766, 207–217.
+
+Neuman W. (2014). Social Research Methods: Qualitative and Quantitative Approaches. Seventh Ed. Relevance of social research. Edinburgh: Pearson Education, Limited; 608 p.
+
+O’Brien, M. (2011). Finding a home for the ‘digital nomad’: New forms of identity and work in relation to mobile media and public space. Retrieved 8 January 2021 from http://www.michelleobrien.net/wp-content/uploads/2011/10/OBRIEN_Home_digital_nomad.pdf.
+
+Polukhina, Anna N., Vladimir V. Lezhnin, & Yuri S. Lyakhnitsky. (2019). The concept of regulated use of natural heritage sites included in the tourist cluster: A Russian caves case study. Journal of Cave and Karst Studies, 81: 162–73.
+
+# References
+
+Reichenberger, I. (2018). Digital nomads – a quest for holistic freedom in work and leisure. Annals of Leisure Research, 21(3), 364‑380.
+
+Savage, M., Bagnall, G., & Longhurst, B., (2005). Globalization and Belonging. Sage, London.
+
+Seraphin, H., & Dosquet, F. (2020). Mountain tourism and second home tourism as post COVID‑19 lockdown placebo? Worldwide Hospitality and Tourism Themes, 12(4), 485–500.
+
+Silberberg, S., Lorah, K., Disbrow, R., & Muessig, A. (2013). Places in the making: How placemaking builds places and communities. Boston, MA: MIT. Retrieved 12 March 2021 from http://dusp.mit.edu/cdd/project/placemaking
+
+Smaldone, D., Harris, C., and Sanyal, N. (2008). The role of time in developing place meanings. Journal of Leisure. 40, 479–504.
+
+Stedman, R. C. (2003). Is it really just a social construction? the contribution of the physical environment to sense of place. Social and Natural Resources, 16, 671–685.
+
+Strauss, A. (1987). Qualitative analysis for social scientists. New York, NY: Cambridge University Press.
+
+Thompson, BY. (2018). Digital nomads: employment in the online gig economy. Glocalism Journal of Culture and Political Innovation, 1–26.
+
+Tomaney, J. (2014). Region and place I: Institutions. Progress in Human Geography, 38(1), 131‑140.
+
+Tronco Hernandez, Y. A. (2020). Remote Workers During the COVID‑19 Lockdown. What Are We Missing and Why Is Important. Journal of Occupational and Environmental Medicine, 62(11), e669–e672.
+
+UNWTO. (2020). Tourism and Rural Development. Retrieved 4 November 2020 from https://www.unwto.org/world‑tourism‑day‑2020/tourism‑and‑rural‑development‑technical‑note
+
+Vaishar, A., & Šťastná, M. (2020). Impact of the COVID‑19 pandemic on rural tourism in Czechia: Preliminary considerations. Current Issues in Tourism, 1–5.
+
+Volgger, M. & Pechlaner, H. (2014) Requirements for destination management organizations in destination governance: Understanding DMO success. Tourism Management 41: 64–75.
+
+Walmsley, D. (2003). Rural tourism: A case of lifestyle‑led opportunities. Australian Geographer, 34(1), 61–72.
+
+Wang, B., Schlagwein, D., Cecez‑Kecmanovic, D., & Cahalane, M. (2019). Digital nomadism and the market economy: Resistance and compliance. ICIS 2019 Proceedings. Retrieved 4 November 2020 from https://aisel.aisnet.org/icis2019/future_of_work/future_work/3/
+
+Wenger‑Trayner. (2015, April 15). Introduction to communities of practice. Retrieved 10 January 2021 from https://wenger‑trayner.com/introduction‑to‑communities‑of‑practice/
+
+Zumbusch, H. Von, & Lalicic, L. (2020). The role of co‑living spaces in digital nomads’ well‑being. Information Technology & Tourism, 22(3), 439–453.
+
+View publication stats

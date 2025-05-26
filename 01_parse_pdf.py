@@ -17,14 +17,17 @@ for document in os.listdir("knowledge_pool"):
     if document.endswith(".pdf"):
         filepath = os.path.join("knowledge_pool", document)
 
+        
         # Parse the pdf
         pdf = parser.load_data(filepath)
-        text = pdf[0].text
+        
+        text = "\n\n".join([doc.text for doc in pdf])
+        print (str(text))
 
         # Save to a txt file
         output_filename = os.path.splitext(document)[0]
         output_path = os.path.join("knowledge_pool", f"{output_filename}.txt")
-        with open(output_path, 'w') as f:
+        with open(output_path, 'w', encoding='utf-8') as f:
             f.write(text)
             
         print(f"Finished parsing {document}")
